@@ -1,2 +1,2 @@
 # PowerBi
-DAX, M code &amp; etc
+DAX Measures & Columns, M code &amp; etc
